@@ -1,4 +1,5 @@
 # Export and read your spotify account playlist
+<br>
 <h1> Overview </h1>
   <h3> Export your spotify playlist from any acoount! with the API from spotify <br> 
   <ul> 
@@ -49,15 +50,18 @@
   <ul>
   <li> <h3> <a href = "https://apiary.io/"> Soon! </a> </h3> </li>
   </ul>
+  <br>
   
-<h1> Tutorial Steps with pics </h1>
-![1](https://user-images.githubusercontent.com/52888940/116563285-17ee1200-a92e-11eb-966f-e4663594e33c.JPG)
-![login](https://user-images.githubusercontent.com/52888940/116563296-1ae90280-a92e-11eb-9ca4-fd0f971025a2.JPG)
-![profile](https://user-images.githubusercontent.com/52888940/116563303-1b819900-a92e-11eb-92b8-7e30f52affa9.JPG)
-![done](https://user-images.githubusercontent.com/52888940/116563294-1a506c00-a92e-11eb-9ae2-771bde6f7f28.JPG)
-![next](https://user-images.githubusercontent.com/52888940/116563300-1ae90280-a92e-11eb-8e47-0560fcc86d22.JPG)
-![1111](https://user-images.githubusercontent.com/52888940/116563289-191f3f00-a92e-11eb-960a-8e8b0c96c4b6.JPG)
-![afq](https://user-images.githubusercontent.com/52888940/116563291-19b7d580-a92e-11eb-9383-65d8762158b4.JPG)
-![hasil](https://user-images.githubusercontent.com/52888940/116563295-1a506c00-a92e-11eb-932e-fcc9f1855568.JPG)
-![qdqw](https://user-images.githubusercontent.com/52888940/116563307-1c1a2f80-a92e-11eb-83b6-3047257f25c1.JPG)
+<h1> Tutorial Steps with pics <br>
+
+![1](https://user-images.githubusercontent.com/52888940/116563285-17ee1200-a92e-11eb-966f-e4663594e33c.JPG)<br>
+![login](https://user-images.githubusercontent.com/52888940/116563296-1ae90280-a92e-11eb-9ca4-fd0f971025a2.JPG)<br>
+![profile](https://user-images.githubusercontent.com/52888940/116563303-1b819900-a92e-11eb-92b8-7e30f52affa9.JPG)<br>
+![done](https://user-images.githubusercontent.com/52888940/116563294-1a506c00-a92e-11eb-9ae2-771bde6f7f28.JPG)<br>
+![next](https://user-images.githubusercontent.com/52888940/116563300-1ae90280-a92e-11eb-8e47-0560fcc86d22.JPG)<br>
+![1111](https://user-images.githubusercontent.com/52888940/116563289-191f3f00-a92e-11eb-960a-8e8b0c96c4b6.JPG)<br>
+![afq](https://user-images.githubusercontent.com/52888940/116563291-19b7d580-a92e-11eb-9383-65d8762158b4.JPG)<br>
+![hasil](https://user-images.githubusercontent.com/52888940/116563295-1a506c00-a92e-11eb-932e-fcc9f1855568.JPG)<br>
+![qdqw](https://user-images.githubusercontent.com/52888940/116563307-1c1a2f80-a92e-11eb-83b6-3047257f25c1.JPG)<br>
   
+</h1>
