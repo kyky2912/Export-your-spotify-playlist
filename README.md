@@ -25,7 +25,7 @@
 </h3> <br>
 
 <h1> How to run this project? </h1>
-  <h3> Here are the steps :) <br>
+  <h3> Here are the steps :) <br></br>
  <ul>
   <li> GitBash on the folder </li>
   <li> Then type Code . in the GitBash </li>
