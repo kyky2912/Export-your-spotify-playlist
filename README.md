@@ -1,5 +1,5 @@
 # Export and read your spotify account playlist
-<br>
+<h3> Made by <br> Name = Nicky <br> NIM = 03082180028 </h3>
 <h1> Overview </h1>
   <h3> Export your spotify playlist from any acoount! with the API from spotify <br> 
   <ul> 
